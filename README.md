@@ -6,7 +6,8 @@ This project contains TO-DO application with Undo and Redo functionality in Angu
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes.
 
-### Prerequisites
+## Prerequisites &nbsp;
+![](https://img.shields.io/badge/Angular-7.0.0-yellowgreen)
 
 To run this algorithms you need any browser installed on your system i.e. internet explorer,firefox mozilla, safari. 
 
